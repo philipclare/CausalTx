@@ -17,15 +17,15 @@
 
 {{/* Generate homepage. */}}
 {{ if eq .Type "book" }}
+  {{ partial "subscribe.html" . }}
   {{ partial "book_layout.html" . }}
-  {{ partial "subscribe.html" . }}
 {{ else if eq .Type "landing" }}
-  {{ partial "landing_page.html" . }}
   {{ partial "subscribe.html" . }}
+  {{ partial "landing_page.html" . }}
 {{ else }}
   {{/* If no homepage file is present, fallback to legacy widget page */}}
-  {{ partial "widget_page.html" . }}
   {{ partial "subscribe.html" . }}
+  {{ partial "widget_page.html" . }}
 {{ end }}
 
 {{- end -}}
