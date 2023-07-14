@@ -1,23 +1,8 @@
 ---
-# Use the Intro widget of the Blog template
 widget: about.avatar
-
-# This file represents a page section.
 headless: true
-
-# Order that this section will appear in.
 weight: 10
-
 author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+widget_id: intro
 ---
-
-🐈 Hey! I'm **Alice**, a data scientist at Google.
-
-Check out my [CV](/about/) and blog posts below 🌈
+Welcome to the information page about CausalTx, a special interest group and journal club run by Joanna Diong and Philip Clare from the Charles Perkins Centre at the University of Sydney.
