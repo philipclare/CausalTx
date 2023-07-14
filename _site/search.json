@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CausalTx",
-    "section": "",
-    "text": "This repository hosts information and resources for an introductory journal club on causal inference. We hope to expand the material over time."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About us",
@@ -19,6 +12,13 @@
     "title": "CausalTx",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CausalTx",
+    "section": "",
+    "text": "This repository hosts information and resources for an introductory journal club on causal inference. We hope to expand the material over time."
   },
   {
     "objectID": "index.html#noticeboard",
