@@ -2,9 +2,12 @@
   title: "Paper 1. Hernán MA. The C-Word: scientific euphemisms do not improve causal inference from observational data"
   author: "Jo Diong"
   date: "26 Apr 2023"
+  image: "paper1.jpg"
 ---
 
 # Paper 1. Hernán MA. The C-Word: scientific euphemisms do not improve causal inference from observational data.
+
+### Access at: [doi:10.2105/AJPH.2018.304337](https://doi.org/10.2105/AJPH.2018.304337)
 
 "The proscription against the C\[ausal\]-word is harmful to science because causal inference is a core task of science \[in many instances\], regardless of whether the study is randomized or non-randomized."
 
