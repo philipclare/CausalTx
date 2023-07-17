@@ -1,0 +1,31 @@
+{
+    "id": "098F4B6A",
+    "path": "~/GitHub/CausalTx/posts/post3.qmd",
+    "project_path": "posts/post3.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1689552170724.0,
+    "source_on_save": true,
+    "relative_order": 6,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2383:21",
+        "cursorPosition": "2,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1689552504,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689552504665,
+    "read_only": false,
+    "read_only_alternatives": []
+}

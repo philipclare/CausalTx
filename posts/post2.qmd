@@ -1,0 +1,49 @@
+---
+  title: "Paper 2. Lipsky AM, Greenland S. Causal directed acyclic graphs"
+  author: "Jo Diong"
+  date: "01 Jun 2023"
+---
+
+# Paper 2. Lipsky AM, Greenland S. Causal directed acyclic graphs.
+
+A causal directed acyclic graph
+
+-   shows direction of plausible causal effects between exposure, outcome and other variables
+
+-   has directed (e.g. E -\> O, E -\> M -\> O) and non-directed (e.g. E \<- C -\> O, E -\> S \<- O) paths
+
+-   is complete when it includes any variable that has arrows into each possible pair of variables along paths from cause to effect
+
+## Paper 2.
+
+-   Association flows along directed and non-directed paths
+
+-   Causal association only flows along directed paths
+
+-   To identify (then estimate) causal associations, block all non-directed (backdoor) paths
+
+-   Do this by
+
+    -   adjusting/conditioning on confounders
+
+    -   leaving colliders alone
+
+## Discussion
+
+Any comments or clarifications? Terms:
+
+-   exposure/treatment
+
+-   assumption
+
+-   (statistical) adjustment/conditioning/control
+
+Sometimes, a variable can be both a confounder and a collider. Special methods are needed to deal with this.
+
+Sometimes, conditioning on colliders can happen inadvertently (e.g. loss of participants before study completion forces analysis to condition on selection of participants). Methods are needed to deal with selection bias.
+
+1.  In practice, how do you build a DAG?
+
+2.  What have reviewers challenged when reviewing DAGs?
+
+3.  How do you know a DAG is correct?

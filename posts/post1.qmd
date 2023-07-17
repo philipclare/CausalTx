@@ -1,0 +1,38 @@
+---
+  title: "Paper 1. Hernán MA. The C-Word: scientific euphemisms do not improve causal inference from observational data"
+  author: "Jo Diong"
+  date: "26 Apr 2023"
+---
+
+# Paper 1. Hernán MA. The C-Word: scientific euphemisms do not improve causal inference from observational data.
+
+"The proscription against the C\[ausal\]-word is harmful to science because causal inference is a core task of science \[in many instances\], regardless of whether the study is randomized or non-randomized."
+
+How a research question is asked reflects its aim:
+
+1.  Do the sorts of people who drink a glass of red wine daily have lower risk of heart disease?
+
+2.  Does drinking a glass of red wine daily lower the risk of heart disease?
+
+Q1 is interested in association.\
+Q2 is interested in causation.
+
+## Paper 1.
+
+Being explicit about scientific aims, even when using observational data, improves study design by helping to
+
+-   specify the exact causal effect of a research question (e.g. exposure, dose, frequency, population, etc.), which guides the analysis
+
+-   better adjust for confounding, the distorted association between variables, using subject-matter knowledge and a plausible causal structure
+
+Even if there's no guarantee a causal model includes all confounders, "we can \[only\] have an informed scientific discussion \... if we first acknowledge the causal goal of the analysis."
+
+## Discussion
+
+Comments or clarifications?
+
+Does anyone disagree with Hernán (e.g. do you think using 'association'/'correlation'/'link' words are better)? Why?
+
+How are RCTs imperfect, and how are these limitations overcome?
+
+How else are observational data limited at allowing causal inference? Do these problems only affect observational studies?
