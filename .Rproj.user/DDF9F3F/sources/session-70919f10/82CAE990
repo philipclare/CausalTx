@@ -3,7 +3,7 @@
     "path": "~/GitHub/CausalTx/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "319758340",
     "contents": "",
     "dirty": false,
     "created": 1689331282348.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "827:91",
-        "cursorPosition": "34,35",
+        "cursorPosition": "12,15",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1689552537,
+    "lastKnownWriteTime": 1690861659,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1689552537164,
+    "last_content_update": 1690861659247,
     "read_only": false,
     "read_only_alternatives": []
 }

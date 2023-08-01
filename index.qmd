@@ -10,6 +10,7 @@ listing:
   id: main-listing
 page-layout: full
 margin-header: subscribe.html
+comments: false
 ---
 
 This repository hosts information and resources for an introductory journal club on causal inference. We hope to expand the material over time.
