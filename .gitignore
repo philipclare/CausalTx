@@ -1,3 +1,6 @@
+/papers_intro/
+/node_modules/
 /.quarto/
 /_site/
 /.idea/
+/package-lock.json

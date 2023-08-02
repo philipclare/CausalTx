@@ -1,0 +1,47 @@
+---
+  title: "Paper 4. Herbert RD. Research Note: Causal inference. Journal of Physiotherapy 2020;66(4):273-7."
+  author: "Jo Diong"
+  date: "02 Aug 2023"
+  image: "paper4.jpg"
+---
+
+# Paper 4. Herbert RD. Research Note: Causal inference. Journal of Physiotherapy 2020;66(4):273-7.
+
+### Access at: [doi:10.1016/j.jphys.2020.07.010 ](https://doi.org/10.1016/j.jphys.2020.07.010)
+
+Causal effects can be stated in terms of the potential outcomes framework (Rubin) or
+'blocking backdoor paths' using do-calculus to identify the causal effect (Pearl)
+
+Individual causal effects can't be observed.
+But under certain assumptions, average causal effects can be identified and estimated using data.
+
+'Exchangeability' between groups (i.e. no unmeasured confounding) is an important assumption.
+Other assumptions are:
+
+* causal consistency: There is only one version of treatment, or if not, any differences remaining between treatments are irrelevant
+* positivity: There are exposed and control individuals at every combination of covariates
+* and the causal model is correctly specified
+
+Causal inferences can be weak or strong, depending on how valid those assumptions are.
+
+## Paper 4.
+
+Randomisation is good:
+It generates causal effects because it breaks the confounder -> outcome path.
+
+If randomisation is not feasible, try to approximate exchangeability using subject matter knowledge and good data:
+specify plausible causal mechanisms in a DAG to identify the minimally-sufficient adjustment set.
+
+Then interpret estimates as causal effects of exposure on outcome under the assumed DAG.
+
+## Discussion
+
+Comments or clarifications?
+
+What other variable adjustment methods are there when a DAG is impossibly complicated (e.g. genetics data)?
+
+What other variable adjustment methods are there when a DAG is impossibly complicated (e.g. genetics data)?
+
+What are the best sorts of exposures to investigate: modifiable or non-modifiable?
+
+What are challenges in specifically defining exposures?

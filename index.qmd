@@ -16,16 +16,17 @@ This repository hosts information and resources for an introductory journal club
 
 ## Noticeboard
 
-**Updated: 17 Jul 2023**
+**Updated: 2 Aug 2023**
 
 Journal clubs will be held on the last Wed/Thu of the month. Next session:
 
-Date: 6 Jul 2023\
+Date: Thu 31 Aug 2023\
 Time: 12 PM AEST\
 Zoom link: <https://uni-sydney.zoom.us/j/81357734627>\
 Meeting ID: 813 5773 4627
 
-Paper: Herbert RD. Research Note: Causal inference. Journal of Physiotherapy 2020;66(4):273-7.
+Paper: MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH.
+Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121.
 
 :::{#main-listing}
 :::
