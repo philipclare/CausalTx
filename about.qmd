@@ -1,5 +1,6 @@
 ---
 title: "About us"
+comments: false
 ---
 
 ## Joanna Diong
