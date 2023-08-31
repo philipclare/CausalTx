@@ -1,0 +1,34 @@
+---
+  title: "Paper 5. MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH. Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121."
+  author: "Jo Diong"
+  date: "31 Aug 2023"
+  image: "paper5.png"
+---
+
+# Paper 5. MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH. Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121.
+
+### Access at: [doi.org/10.1371/journal.pone.0270121 ](https://doi.org/10.1371/journal.pone.0270121)
+
+Investigators proposed a causal model on how neurological and orthopedic impairments (exposure) affect physical function (outcome) in children with CP.
+Variables were limited to those routinely collected during motion analysis of gait.
+
+To estimate causal effects, gait analysis and muscle electromyography (cross-sectional) data from 300 consecutive children with CP were analysed.
+
+(Multivariate) linear models were used to estimate total (direct and mediated) and direct only causal effects of each exposure on function, using the adjustment set for that exposure. I.e. causal effects of motor control, strength, spasticity etc. on function were analysed in separate linear models
+
+## Paper 5.
+
+A predictive model was developed to assess how well all exposures predicted function.
+The model's performance on out-of-sample observations was assessed (using the same dataset?)
+
+Measures of association (i.e. estimates from models of only 2 variables), which do not control for confounding, were obtained and compared against causal estimates.
+
+Findings: All measures of association overestimated the magnitudes of causal effects.
+
+## Discussion
+
+Was the causal model developed using sufficient theory, if variables considered were only those that were collected?
+
+DAG arrows indicate causes precede effects in time. This assumption is implicit if cross-sectional data are used; it can't be tested. Are the assumptions for each arrow fair?
+
+What might be the next research question? Refine the DAG?
