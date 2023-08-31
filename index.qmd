@@ -17,17 +17,17 @@ This repository hosts information and resources for an introductory journal club
 
 ## Noticeboard
 
-**Updated: 2 Aug 2023**
+**Updated: 31 Aug 2023**
 
 Journal clubs will be held on the last Wed/Thu of the month. Next session:
 
-Date: Thu 31 Aug 2023\
+Date: Wed 27 Sep 2023\
 Time: 12 PM AEST\
 Zoom link: <https://uni-sydney.zoom.us/j/81357734627>\
 Meeting ID: 813 5773 4627
 
-Paper: MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH.
-Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121.
+Paper: Petersen ML, van der Laan MJ. Causal models and learning from data:
+integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26.
 
 :::{#main-listing}
 :::
