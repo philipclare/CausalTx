@@ -17,17 +17,18 @@ This repository hosts information and resources for an introductory journal club
 
 ## Noticeboard
 
-**Updated: 31 Aug 2023**
+**Updated: 27 Sep 2023**
 
 Journal clubs will be held on the last Wed/Thu of the month. Next session:
 
-Date: Wed 27 Sep 2023\
+Date: Thu 26 Oct 2023\
 Time: 12 PM AEST\
 Zoom link: <https://uni-sydney.zoom.us/j/81357734627>\
 Meeting ID: 813 5773 4627
 
-Paper: Petersen ML, van der Laan MJ. Causal models and learning from data:
-integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26.
+Paper: Buzzell A, Chamberlain JD, Eriks-Hoogland I, Jordan X, Schubert M, Zwahlen M, Brinkhof MWG.
+Etiology-specific variation in survival following non-traumatic spinal cord injury:
+a causal inference approach using data from a population-based cohort. Spinal Cord 2021;59(3):257-65.
 
 :::{#main-listing}
 :::
