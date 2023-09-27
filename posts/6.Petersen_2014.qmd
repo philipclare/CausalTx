@@ -1,0 +1,41 @@
+---
+  title: "Paper 6. Petersen ML, van der Laan MJ. Causal models and learning from data: integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26."
+  author: "Jo Diong"
+  date: "27 Sep 2023"
+  image: "paper6.png"
+---
+
+# Paper 6. Petersen ML, van der Laan MJ. Causal models and learning from data: integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26.
+
+### Access at: [doi.10.1097/EDE.0000000000000078](https://journals.lww.com/epidem/fulltext/2014/05000/causal_models_and_learning_from_data__integrating.13.aspx)
+
+1. Specify knowledge about the system to be studied using a causal model
+2. Specify the observed data and their link to the causal model
+3. Specify a target causal quantity
+4. Assess identifiability
+5. State the statistical estimation problem
+6. Estimate
+7. Interpret
+
+## Comments
+
+This paper provides a framework to articulate a causal question and answer it using statistical approaches.
+
+There are many 'versions' of causal roadmaps, with steps in slightly different orders.
+Most causal inference courses, beginner and advanced, will reference a roadmap.
+The bottom line is, use one of the roadmaps to draft a study protocol to stop from getting lost/confused.
+
+Suggestions:
+
+* See Dang and Balzer 2013 commentary
+* Do an online course through SER: https://epiresearch.org/
+* Do an online course through Harvard CausaLab summer school: https://causalab.sph.harvard.edu/2024-causal-courses/
+
+## Discussion
+
+Do you think all steps in the framework exist independently, or occur simultaneously?
+
+Are some steps more important or less practical than others?
+
+How can language to interpret causal effects reflect the strength of scientific claims?
+
