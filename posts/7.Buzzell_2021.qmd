@@ -1,0 +1,73 @@
+---
+  title: "Paper 7. Buzzell A, Chamberlain JD, Eriks-Hoogland I, Jordan X, Schubert M, Zwahlen M, Brinkhof MWG. Etiology-specific variation in survival following non-traumatic spinal cord injury: a causal inference approach using data from a population-based cohort. Spinal Cord 2021;59(3):257-65."
+  author: "Jo Diong"
+  date: "24 Oct 2023"
+  image: "paper7.png"
+---
+
+# Paper 7. Buzzell A, Chamberlain JD, Eriks-Hoogland I, Jordan X, Schubert M, Zwahlen M, Brinkhof MWG. Etiology-specific variation in survival following non-traumatic spinal cord injury: a causal inference approach using data from a population-based cohort. Spinal Cord 2021;59(3):257-65.
+
+### Access at: [doi.org/10.1038/s41393-020-00554-9](https://www.nature.com/articles/s41393-020-00554-9)
+
+Aimed to estimate excess deaths caused by different mechanisms of non-traumatic SCI
+(e.g. degenerative disc disorder, infection, vascular disorder, benign tumour, malignant tumour)
+from deaths caused by lesion-related (SCI severity) or demographic factors (age, sex, calendar period)
+using deaths in traumatic SCI as the reference
+
+* Exposure: SCI etiology (cause)
+* Outcome: survival time
+* Latent (unobserved) variable: underlying health conditions that cause (non-traumatic) SCI
+* Confounders: age, sex, calendar period
+* Mediator: SCI severity (included in the _total causal effect_)
+
+## Paper 7.
+
+* Conditional dependencies in the fairly simple DAG were tested to confirm DAG is consistent with dataset
+* Relative mortality estimated with hazard ratios
+* Sensitivity analysis:
+  * Compared traumatic SCi mortality caused by 'transport related' + 'sports and leisure' alone, vs these + 'falls' and 'other'
+  * E-values calculated: indicates the magnitude (as risk ratio) of unmeasured confounding needed to be associated with exposure and outcome to completely explain away the causal effect; big E-value risk ratio is better
+
+## Discussion
+
+Comments or clarifications?
+
+Dashed/dotted arrows in DAG is non-standard
+
+SCI severity is a mediator: its effect can't be teased out from total causal effect without mediation analysis
+
+How important is it to test for conditional independencies?
+(Less feasible in complex DAG, prone to Type 1 error, DAG should be based on theory not testability, testing can't externally validate DAG, RMSE hard to interpret?)
+
+
+
+1. Specify knowledge about the system to be studied using a causal model
+2. Specify the observed data and their link to the causal model
+3. Specify a target causal quantity
+4. Assess identifiability
+5. State the statistical estimation problem
+6. Estimate
+7. Interpret
+
+## Comments
+
+This paper provides a framework to articulate a causal question and answer it using statistical approaches.
+
+There are many 'versions' of causal roadmaps, with steps in slightly different orders.
+Most causal inference courses, beginner and advanced, will reference a roadmap.
+The bottom line is, use one of the roadmaps to draft a study protocol to stop from getting lost/confused.
+
+Suggestions:
+
+* See Dang and Balzer 2013 commentary
+* Do an online course through SER: https://epiresearch.org/
+* Do an online course through Harvard CausaLab summer school: https://causalab.sph.harvard.edu/2024-causal-courses/
+
+## Discussion
+
+Do you think all steps in the framework exist independently, or occur simultaneously?
+
+Are some steps more important or less practical than others?
+
+How can language to interpret causal effects reflect the strength of scientific claims?
+
