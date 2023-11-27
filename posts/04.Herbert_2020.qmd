@@ -2,7 +2,7 @@
   title: "Paper 4. Herbert RD. Research Note: Causal inference. Journal of Physiotherapy 2020;66(4):273-7."
   author: "Jo Diong"
   date: "02 Aug 2023"
-  image: "paper4.jpg"
+  image: "paper04.jpg"
 ---
 
 # Paper 4. Herbert RD. Research Note: Causal inference. Journal of Physiotherapy 2020;66(4):273-7.

@@ -2,7 +2,7 @@
   title: "Paper 6. Petersen ML, van der Laan MJ. Causal models and learning from data: integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26."
   author: "Jo Diong"
   date: "27 Sep 2023"
-  image: "paper6.png"
+  image: "paper06.png"
 ---
 
 # Paper 6. Petersen ML, van der Laan MJ. Causal models and learning from data: integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26.

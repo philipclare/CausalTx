@@ -2,7 +2,7 @@
   title: "Paper 5. MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH. Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121."
   author: "Jo Diong"
   date: "31 Aug 2023"
-  image: "paper5.png"
+  image: "paper05.png"
 ---
 
 # Paper 5. MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH. Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121.

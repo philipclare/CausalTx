@@ -2,7 +2,7 @@
   title: "Paper 3. Butler et al. Upper limb function but not proprioception is impaired in essential tremor"
   author: "Jo Diong"
   date: "06 Jul 2023"
-  image: "paper3.jpg"
+  image: "paper03.jpg"
 ---
 
 # Paper 3. Butler et al. Upper limb function but not proprioception is impaired in essential tremor.

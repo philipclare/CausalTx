@@ -2,7 +2,7 @@
   title: "Paper 2. Lipsky AM, Greenland S. Causal directed acyclic graphs"
   author: "Jo Diong"
   date: "01 Jun 2023"
-  image: "paper2.jpg"
+  image: "paper02.jpg"
 ---
 
 # Paper 2. Lipsky AM, Greenland S. Causal directed acyclic graphs.

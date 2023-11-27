@@ -2,7 +2,7 @@
   title: "Paper 1. Hernán MA. The C-Word: scientific euphemisms do not improve causal inference from observational data"
   author: "Jo Diong"
   date: "26 Apr 2023"
-  image: "paper1.jpg"
+  image: "paper01.jpg"
 ---
 
 # Paper 1. Hernán MA. The C-Word: scientific euphemisms do not improve causal inference from observational data.

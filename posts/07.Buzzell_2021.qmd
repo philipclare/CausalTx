@@ -2,7 +2,7 @@
   title: "Paper 7. Buzzell A, Chamberlain JD, Eriks-Hoogland I, Jordan X, Schubert M, Zwahlen M, Brinkhof MWG. Etiology-specific variation in survival following non-traumatic spinal cord injury: a causal inference approach using data from a population-based cohort. Spinal Cord 2021;59(3):257-65."
   author: "Jo Diong"
   date: "24 Oct 2023"
-  image: "paper7.png"
+  image: "paper07.png"
 ---
 
 # Paper 7. Buzzell A, Chamberlain JD, Eriks-Hoogland I, Jordan X, Schubert M, Zwahlen M, Brinkhof MWG. Etiology-specific variation in survival following non-traumatic spinal cord injury: a causal inference approach using data from a population-based cohort. Spinal Cord 2021;59(3):257-65.
