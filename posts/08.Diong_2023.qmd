@@ -1,0 +1,40 @@
+---
+  title: "Diong J, Lee H, Reed D. The effect of face-to-face versus online learning on student performance in anatomy: an observational study using a causal inference approach. Discover Education 2023;2(1):3."
+  author: "Jo Diong"
+  date: "29 Nov 2023"
+  image: "pape08.png"
+---
+
+# Diong J, Lee H, Reed D. The effect of face-to-face versus online learning on student performance in anatomy: an observational study using a causal inference approach. Discover Education 2023;2(1):3.
+
+### Access at: DOI [10.1007/s44217-022-00027-6](10.1007/s44217-022-00027-6)
+
+Aimed to estimate the causal effect of face-to-face learning on student performance in anatomy, compared to online learning,
+by analysing exam marks under an assumed causal structure.
+
+* Under this DAG, the causal effect holds if the paths from COVID lockdown to end-sem exam mark are fully mitigated (blocked) by the mid-sem exam mark and feedback
+* Interestingly, this mean the causal effect could only be identified (and estimated) by analysing the end-sem mark alone, not the combined mid- and end-sem mark (analysing the combined mark would bias the causal effect, under this DAG)
+* ATAR scores (high school marks) are also not a confounder and should not be adjusted in the analysis
+
+## Paper 8.
+
+* We reported E-values for sensitivity analysis, and interpreted them in Discussion
+  * This is the minimum strength of association (risk with confounding / risk without confounding) that an unmeasured confounder would need to have with an exposure and an outcome to completely explain away the exposure-outcome association, conditional on the adjusted vairables
+  * E-value of 1 is the null effect: no unmeasured confounding is needed to explain away the causal effect (this is bad)
+
+## Paper 8.
+
+Comments:
+
+* Provide evidence to justify DAG: reviewers will ask for it.
+* The total causal effect, not the direct causal effect, is the preferred estimate: The total effect includes mediation paths, requires fewer assumptions, and is the default effect reported in the literature
+
+## Discussion
+
+Comments or clarifications?
+
+Do you believe the DAG? \
+How would you do the study better?
+
+How to introduce the causal framework into any field?
+
