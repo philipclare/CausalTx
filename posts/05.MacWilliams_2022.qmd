@@ -5,8 +5,6 @@
   image: "paper05.png"
 ---
 
-# Paper 5. MacWilliams BA, Prasad S, Shuckra AL, Schwartz MH. Causal factors affecting gross motor function in children diagnosed with cerebral palsy. PloS One 2022;17(7):e0270121.
-
 ### Access at: [doi.org/10.1371/journal.pone.0270121 ](https://doi.org/10.1371/journal.pone.0270121)
 
 Investigators proposed a causal model on how neurological and orthopedic impairments (exposure) affect physical function (outcome) in children with CP.

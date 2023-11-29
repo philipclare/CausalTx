@@ -5,8 +5,6 @@
   image: "paper04.jpg"
 ---
 
-# Paper 4. Herbert RD. Research Note: Causal inference. Journal of Physiotherapy 2020;66(4):273-7.
-
 ### Access at: [doi:10.1016/j.jphys.2020.07.010 ](https://doi.org/10.1016/j.jphys.2020.07.010)
 
 Causal effects can be stated in terms of the potential outcomes framework (Rubin) or

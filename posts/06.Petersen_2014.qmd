@@ -5,8 +5,6 @@
   image: "paper06.png"
 ---
 
-# Paper 6. Petersen ML, van der Laan MJ. Causal models and learning from data: integrating causal modeling and statistical estimation. Epidemiology 2014;25(3):418-26.
-
 ### Access at: [doi.10.1097/EDE.0000000000000078](https://journals.lww.com/epidem/fulltext/2014/05000/causal_models_and_learning_from_data__integrating.13.aspx)
 
 1. Specify knowledge about the system to be studied using a causal model

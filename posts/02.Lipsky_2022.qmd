@@ -5,8 +5,6 @@
   image: "paper02.jpg"
 ---
 
-# Paper 2. Lipsky AM, Greenland S. Causal directed acyclic graphs.
-
 ### Access at: [doi:10.1001/jama.2022.1816](https://doi.org/10.1001/jama.2022.1816)
 
 A causal directed acyclic graph

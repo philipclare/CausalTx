@@ -5,8 +5,6 @@
   image: "paper07.png"
 ---
 
-# Paper 7. Buzzell A, Chamberlain JD, Eriks-Hoogland I, Jordan X, Schubert M, Zwahlen M, Brinkhof MWG. Etiology-specific variation in survival following non-traumatic spinal cord injury: a causal inference approach using data from a population-based cohort. Spinal Cord 2021;59(3):257-65.
-
 ### Access at: [doi.org/10.1038/s41393-020-00554-9](https://www.nature.com/articles/s41393-020-00554-9)
 
 Aimed to estimate excess deaths caused by different mechanisms of non-traumatic SCI
