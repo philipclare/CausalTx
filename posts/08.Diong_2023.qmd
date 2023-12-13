@@ -2,7 +2,7 @@
   title: "Paper 8. Diong J, Lee H, Reed D. The effect of face-to-face versus online learning on student performance in anatomy: an observational study using a causal inference approach. Discover Education 2023;2(1):3."
   author: "Jo Diong"
   date: "29 Nov 2023"
-  image: "pape08.png"
+  image: "paper08.png"
 ---
 
 ### Access at: DOI [10.1007/s44217-022-00027-6](10.1007/s44217-022-00027-6)
