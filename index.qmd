@@ -17,16 +17,16 @@ This repository hosts information and resources for an introductory journal club
 
 ## Noticeboard
 
-**Updated: 29 Nov 2023**
+**Updated: 1 Feb 2024**
 
-Journal clubs will be held on the last Wed/Thu of the month. Next session:
+Journal clubs will be held on the last Thu of the month. Next anticipated session:
 
-Date: Thu 1 Feb 2024\
+Date: Thu 29 Feb 2024\
 Time: 12 PM AEST\
 Zoom link: <https://uni-sydney.zoom.us/j/81357734627>\
 Meeting ID: 813 5773 4627
 
-Paper: Herbert RD. Cohort studies of aetiology and prognosis: they're different. Journal of Physiotherapy 2014;60(4):241-4.
+Paper: TBC
 
 :::{#main-listing}
 :::
