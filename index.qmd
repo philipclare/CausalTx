@@ -19,14 +19,21 @@ This repository hosts information and resources for an introductory journal club
 
 **Updated: 1 Feb 2024**
 
-Journal clubs will be held on the last Thu of the month. Next anticipated session:
+Journal clubs will be held on the last Thu of the month. Next session:
 
 Date: Thu 29 Feb 2024\
-Time: 12 PM AEST\
+Time: 2 PM AEST\
 Zoom link: <https://uni-sydney.zoom.us/j/81357734627>\
 Meeting ID: 813 5773 4627
 
-Paper: TBC
+Guest presenter: A/Prof Fiona Stanaway
+
+Topic: Prognosis modeling (and in relation to causal modeling)
+
+Papers:
+
+* Hill JC, Dunn KM, Lewis M, Mullis R, Main CJ, Foster NE, Hay EM. A primary care back pain screening tool: identifying patient subgroups for initial treatment. Arthritis and Rheumatism 2008;59(5):632-41.
+* Hill JC, Whitehurst DG, Lewis M, Bryan S, Dunn KM, Foster NE, Konstantinou K, Main CJ, Mason E, Somerville S, Sowden G, Vohora K, Hay EM. Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial. Lancet (London, England) 2011;378(9802):1560-71.
 
 :::{#main-listing}
 :::
